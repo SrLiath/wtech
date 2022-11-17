@@ -1,5 +1,5 @@
 # wtech
-criado para seletiva frexco
+Projeto frexco tech
 sistema compactado, cadastra, loga, mostra logins e importa para csv
 baseado em python e django, conectado ao PostgreSQL
 
