@@ -1,0 +1,20 @@
+# Arquivos e pastas específicos do Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Arquivos e pastas gerados por IDEs
+.vscode/
+.idea/
+
+# Arquivos e pastas gerados durante a execução do projeto
+/staticfiles/
+/media/
+
+# Outros arquivos e pastas padrão a serem ignorados
+*.pyc
+*.swp
+.DS_Store
